@@ -49,3 +49,5 @@ When the game is over:
 *   You can return to the home screen at any time during gameplay by clicking the "Back to Home" button at the bottom of the game screen.
 
 Enjoy playing Snake!
+
+If there's any issues with this project or repo don't feel shy to drop a text in my dm. 
